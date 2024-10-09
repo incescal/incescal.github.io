@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://incescal.github.io/sitemap.html.gz
+Sitemap: https://incescal.github.io/app/sitemap.html.gz
+Sitemap: https://incescal.github.io/assets/sitemap.html.gz
+Sitemap: https://incescal.github.io/css/sitemap.html.gz
+Sitemap: https://incescal.github.io/includes/sitemap.html.gz
+Sitemap: https://incescal.github.io/item/sitemap.html.gz
+Sitemap: https://incescal.github.io/src/sitemap.html.gz
